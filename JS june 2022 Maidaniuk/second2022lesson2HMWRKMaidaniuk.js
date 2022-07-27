@@ -138,7 +138,7 @@ let users = [
         password: 12471910
     }
 ]
-console.log(users[0].password);
+// console.log(users[0].password);
 
 
 console.table(users, ['password']);
