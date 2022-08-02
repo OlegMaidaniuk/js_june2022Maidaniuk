@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="">
+    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="log aut1">
+      <change afterPath="$PROJECT_DIR$/JS june 2022 Maidaniuk/third3lessonHMWRKMaidaniuk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS june 2022 Maidaniuk/third3lessonHMWRKMaidaniuk.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS june 2022 Maidaniuk/second2022lesson2HMWRKMaidaniuk.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS june 2022 Maidaniuk/second2022lesson2HMWRKMaidaniuk.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CXbDAsiNCuUQVQ757g1llZqRLs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,6 +39,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -34,8 +54,29 @@
       <updated>1658951777942</updated>
       <workItem from="1658951779932" duration="113000" />
       <workItem from="1658952060855" duration="28000" />
-      <workItem from="1658953412860" duration="687000" />
+      <workItem from="1658953412860" duration="1067000" />
+      <workItem from="1659085485961" duration="11532000" />
+      <workItem from="1659111207226" duration="636000" />
+      <workItem from="1659123935172" duration="138000" />
+      <workItem from="1659351274314" duration="7122000" />
+      <workItem from="1659371192288" duration="1310000" />
+      <workItem from="1659440749569" duration="6396000" />
     </task>
+    <task id="LOCAL-00001" summary="log aut">
+      <created>1658954203317</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658954203317</updated>
+    </task>
+    <task id="LOCAL-00002" summary="log aut1">
+      <created>1658954301021</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658954301021</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -51,5 +92,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="log aut" />
+    <MESSAGE value="log aut1" />
+    <option name="LAST_COMMIT_MESSAGE" value="log aut1" />
   </component>
 </project>
