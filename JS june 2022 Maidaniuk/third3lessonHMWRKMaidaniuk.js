@@ -92,16 +92,23 @@ switch (day) {
         break;
     case 6:
         console.log(`I go to the pool`);
+
+        if (day === 10) {
+            document.write('ten')}
+
         break;
+    default:
+        console.log("go number!!!");
+    }
+        // break;
     // case 7:
     //     console.log(`I will stay at home and watch movies`);
     //     break;
-        if (day === 10) {
-            document.write('ten')}
-        break;
-    default: {
-        console.log("go number!!!");
-    }}
+
+    //     break;
+    // default: {
+    //     console.log("go number!!!");
+    // }}
 
 
 // - Користувач вводить або має два числа.
