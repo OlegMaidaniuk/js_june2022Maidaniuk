@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="expirience case-if">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS june 2022 Maidaniuk/j4.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS june 2022 Maidaniuk/j4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS june 2022 Maidaniuk/style4.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS june 2022 Maidaniuk/style4.css" afterDir="false" />
+    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="+1аддішіонал з резолву">
+      <change afterPath="$PROJECT_DIR$/JS june 2022 Maidaniuk/fifthHmwrkJS2022Maidaniuk.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +32,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CXbDAsiNCuUQVQ757g1llZqRLs" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -63,7 +63,7 @@
       <workItem from="1659371192288" duration="1310000" />
       <workItem from="1659440749569" duration="9333000" />
       <workItem from="1659519151990" duration="6613000" />
-      <workItem from="1659616540457" duration="8862000" />
+      <workItem from="1659616540457" duration="16387000" />
     </task>
     <task id="LOCAL-00001" summary="log aut">
       <created>1658954203317</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659637096922</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+1аддішіонал з резолву">
+      <created>1659697526037</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659697526051</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
     <MESSAGE value="log aut" />
     <MESSAGE value="log aut1" />
     <MESSAGE value="expirience case-if" />
-    <option name="LAST_COMMIT_MESSAGE" value="expirience case-if" />
+    <MESSAGE value="+1аддішіонал з резолву" />
+    <option name="LAST_COMMIT_MESSAGE" value="+1аддішіонал з резолву" />
   </component>
 </project>
