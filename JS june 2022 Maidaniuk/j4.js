@@ -93,7 +93,7 @@ let products = [
 ];
 for (const product of products) {
     document.write(`<div class="product-card">
-<h3class="product-title">${product.title}---${product.price}</h3>
+<h3 class="product-title">${product.title}---${product.price}</h3>
 <img src="${product.image}" alt="${product.title}" class="product-image">
 </div>`)
 }
@@ -110,7 +110,11 @@ for (const product of products) {
 //
 //
 // --------------------
-//     є масив
+// є масив
+// за допомоги циклу вивести:
+//     - користувачів зі статусом true
+// - користувачів зі статусом false
+// - користувачів які старші за 30 років
 let users = [
     {name: 'vasya', age: 31, status: false},
     {name: 'petya', age: 30, status: true},
@@ -144,7 +148,18 @@ for (const user of users) {
 console.log(`--------------------------`);
 
 
-// за допомоги циклу вивести:
-//     - користувачів зі статусом true
-// - користувачів зі статусом false
-// - користувачів які старші за 30 років
+
+
+///
+let arr = ['a','b','c'];
+let str = '';
+for (const strElement of arr) {
+    str += strElement;
+}
+console.log(str);
+
+///
+
+
+
+
