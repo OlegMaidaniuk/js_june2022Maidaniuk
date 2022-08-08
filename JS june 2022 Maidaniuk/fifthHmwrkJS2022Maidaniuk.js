@@ -127,12 +127,12 @@ let arr2 = [1, 2, 3, 5, 7, -3]
 function minNum(array) {
     let min = array[0];
     // let item;
-    for (let item of array);
+    for (let item of array)
     {
 
-        if (item <= min);
+        if (item <= min)
         {
-            min = item
+            min = item;
         }
     }
     return min;
@@ -143,7 +143,8 @@ console.log(minNum(arr2));
 
 
 
-// - створити функцію яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
+// - створити функцію яка приймає масив чисел,
+// сумує значення елементів масиву та повертає його. Приклад [1,2,10]->13
 let arr3 = [1, 4, 7 ];
 function foo(array) {
     let sum = 0;

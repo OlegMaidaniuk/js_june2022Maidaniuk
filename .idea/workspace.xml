@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="+1аддішіонал з резолву">
+    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="передостаннє негаразд чому?мінімалки не йдуть">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JS june 2022 Maidaniuk/fifthHmwrkJS2022Maidaniuk.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS june 2022 Maidaniuk/fifthHmwrkJS2022Maidaniuk.js" afterDir="false" />
     </list>
@@ -65,7 +65,8 @@
       <workItem from="1659440749569" duration="9333000" />
       <workItem from="1659519151990" duration="6613000" />
       <workItem from="1659616540457" duration="16463000" />
-      <workItem from="1659952290069" duration="9235000" />
+      <workItem from="1659952290069" duration="9822000" />
+      <workItem from="1659965931121" duration="259000" />
     </task>
     <task id="LOCAL-00001" summary="log aut">
       <created>1658954203317</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659705439949</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="передостаннє негаразд чому?мінімалки не йдуть">
+      <created>1659965289310</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659965289310</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +139,7 @@
     <MESSAGE value="log aut1" />
     <MESSAGE value="expirience case-if" />
     <MESSAGE value="+1аддішіонал з резолву" />
-    <option name="LAST_COMMIT_MESSAGE" value="+1аддішіонал з резолву" />
+    <MESSAGE value="передостаннє негаразд чому?мінімалки не йдуть" />
+    <option name="LAST_COMMIT_MESSAGE" value="передостаннє негаразд чому?мінімалки не йдуть" />
   </component>
 </project>
