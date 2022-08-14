@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="вже все">
+    <list default="true" id="937dc346-1816-4332-a8fa-933dae76edc0" name="Changes" comment="вже все and reduce.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <workItem from="1660196868071" duration="13144000" />
       <workItem from="1660241767059" duration="1197000" />
       <workItem from="1660310429022" duration="1088000" />
-      <workItem from="1660325509680" duration="14818000" />
+      <workItem from="1660325509680" duration="15748000" />
     </task>
     <task id="LOCAL-00001" summary="log aut">
       <created>1658954203317</created>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659966326426</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="вже все and reduce.">
+      <created>1660508188588</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660508188636</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +159,7 @@
     <MESSAGE value="+1аддішіонал з резолву" />
     <MESSAGE value="передостаннє негаразд чому?мінімалки не йдуть" />
     <MESSAGE value="вже все" />
-    <option name="LAST_COMMIT_MESSAGE" value="вже все" />
+    <MESSAGE value="вже все and reduce." />
+    <option name="LAST_COMMIT_MESSAGE" value="вже все and reduce." />
   </component>
 </project>
