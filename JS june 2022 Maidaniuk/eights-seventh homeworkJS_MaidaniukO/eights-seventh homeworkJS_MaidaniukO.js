@@ -213,3 +213,16 @@ console.log(find(arraySi, prince));
 //     За допомоги циклу знайти яка попелюшка повинна бути з принцом.
 //     Додатково, знайти необхідну попелюшку за допомоги функції масиву find та відповідного колбеку
 // Footer
+
+let cinderella = arraySi.find(value =>prince.findsizeFoot===value.sizeFoot);
+console.log(cinderella);
+
+
+
+
+
+
+
+
+
+
